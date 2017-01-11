@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Beata Jasinski beata@emc2wave.com @beata_0101
 
 # THANKS
 
